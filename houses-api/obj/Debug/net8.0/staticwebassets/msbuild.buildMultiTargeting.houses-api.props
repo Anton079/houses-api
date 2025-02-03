@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\houses-api.props" />
+</Project>
