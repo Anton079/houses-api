@@ -3,20 +3,44 @@
   "WorkspaceRootPath": "C:\\mycode\\asp.net\\houses-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|c:\\mycode\\asp.net\\houses-api\\houses-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|solutionrelative:houses-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|c:\\mycode\\asp.net\\houses-api\\houses-api\\houses\\controller\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|solutionrelative:houses-api\\houses\\controller\\housecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|c:\\mycode\\asp.net\\houses-api\\houses-api\\houses\\repository\\houserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|solutionrelative:houses-api\\houses\\repository\\houserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|c:\\mycode\\asp.net\\houses-api\\houses-api\\houses\\repository\\ihouserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|solutionrelative:houses-api\\houses\\repository\\ihouserepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|c:\\mycode\\asp.net\\houses-api\\houses-api\\houses\\mapers\\housemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|solutionrelative:houses-api\\houses\\mapers\\housemappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|c:\\mycode\\asp.net\\houses-api\\houses-api\\houses\\dtos\\houseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|solutionrelative:houses-api\\houses\\dtos\\houseresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|c:\\mycode\\asp.net\\houses-api\\houses-api\\houses\\dtos\\houserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|solutionrelative:houses-api\\houses\\dtos\\houserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|c:\\mycode\\asp.net\\houses-api\\houses-api\\houses\\models\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|solutionrelative:houses-api\\houses\\models\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|c:\\mycode\\asp.net\\houses-api\\houses-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|solutionrelative:houses-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|c:\\mycode\\asp.net\\houses-api\\houses-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|solutionrelative:houses-api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|c:\\mycode\\asp.net\\houses-api\\houses-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|solutionrelative:houses-api\\data\\migrations\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|c:\\mycode\\asp.net\\houses-api\\houses-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|solutionrelative:houses-api\\data\\migrations\\createschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{25BF9104-AB97-48D8-94B9-700177F0CCC4}|houses-api\\houses-api.csproj|c:\\mycode\\asp.net\\houses-api\\houses-api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -38,37 +62,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 235,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "HouseResponse.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Houses\\Dtos\\HouseResponse.cs",
+              "RelativeDocumentMoniker": "houses-api\\Houses\\Dtos\\HouseResponse.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Houses\\Dtos\\HouseResponse.cs",
+              "RelativeToolTip": "houses-api\\Houses\\Dtos\\HouseResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:21:17.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HouseRequest.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Houses\\Dtos\\HouseRequest.cs",
+              "RelativeDocumentMoniker": "houses-api\\Houses\\Dtos\\HouseRequest.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Houses\\Dtos\\HouseRequest.cs",
+              "RelativeToolTip": "houses-api\\Houses\\Dtos\\HouseRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:21:09.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HouseRepo.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Houses\\Repository\\HouseRepo.cs",
+              "RelativeDocumentMoniker": "houses-api\\Houses\\Repository\\HouseRepo.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Houses\\Repository\\HouseRepo.cs",
+              "RelativeToolTip": "houses-api\\Houses\\Repository\\HouseRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:52:14.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HouseMappingProfile.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Houses\\Mapers\\HouseMappingProfile.cs",
+              "RelativeDocumentMoniker": "houses-api\\Houses\\Mapers\\HouseMappingProfile.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Houses\\Mapers\\HouseMappingProfile.cs",
+              "RelativeToolTip": "houses-api\\Houses\\Mapers\\HouseMappingProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T16:23:32.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HouseController.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Houses\\Controller\\HouseController.cs",
+              "RelativeDocumentMoniker": "houses-api\\Houses\\Controller\\HouseController.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Houses\\Controller\\HouseController.cs",
+              "RelativeToolTip": "houses-api\\Houses\\Controller\\HouseController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAtwBsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:52:34.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IHouseRepo.cs",
+              "DocumentMoniker": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Houses\\Repository\\IHouseRepo.cs",
+              "RelativeDocumentMoniker": "houses-api\\Houses\\Repository\\IHouseRepo.cs",
+              "ToolTip": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Houses\\Repository\\IHouseRepo.cs",
+              "RelativeToolTip": "houses-api\\Houses\\Repository\\IHouseRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T14:52:08.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\mycode\\asp.net\\houses-api\\houses-api\\appsettings.json",
               "RelativeDocumentMoniker": "houses-api\\appsettings.json",
               "ToolTip": "C:\\mycode\\asp.net\\houses-api\\houses-api\\appsettings.json",
               "RelativeToolTip": "houses-api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-02-03T16:31:56.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T16:31:56.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Program.cs",
               "RelativeDocumentMoniker": "houses-api\\Program.cs",
               "ToolTip": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Program.cs",
               "RelativeToolTip": "houses-api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:29:58.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T16:29:58.496Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
               "Title": "houses-api.http",
               "DocumentMoniker": "C:\\mycode\\asp.net\\houses-api\\houses-api\\houses-api.http",
               "RelativeDocumentMoniker": "houses-api\\houses-api.http",
@@ -76,60 +171,55 @@
               "RelativeToolTip": "houses-api\\houses-api.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-02-03T16:29:57.981Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T16:29:57.981Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "houses-api",
+              "DocumentIndex": 12,
+              "Title": "houses-api.csproj",
               "DocumentMoniker": "C:\\mycode\\asp.net\\houses-api\\houses-api\\houses-api.csproj",
               "RelativeDocumentMoniker": "houses-api\\houses-api.csproj",
               "ToolTip": "C:\\mycode\\asp.net\\houses-api\\houses-api\\houses-api.csproj",
               "RelativeToolTip": "houses-api\\houses-api.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-03T16:29:44.076Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T16:29:44.076Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "House.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Houses\\Models\\House.cs",
               "RelativeDocumentMoniker": "houses-api\\Houses\\Models\\House.cs",
               "ToolTip": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Houses\\Models\\House.cs",
               "RelativeToolTip": "houses-api\\Houses\\Models\\House.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:24:18.473Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T16:24:18.473Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Data\\Migrations\\AppDbContext.cs",
               "RelativeDocumentMoniker": "houses-api\\Data\\Migrations\\AppDbContext.cs",
               "ToolTip": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Data\\Migrations\\AppDbContext.cs",
               "RelativeToolTip": "houses-api\\Data\\Migrations\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:23:36.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T16:23:36.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "CreateSchema.cs",
               "DocumentMoniker": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Data\\Migrations\\CreateSchema.cs",
               "RelativeDocumentMoniker": "houses-api\\Data\\Migrations\\CreateSchema.cs",
               "ToolTip": "C:\\mycode\\asp.net\\houses-api\\houses-api\\Data\\Migrations\\CreateSchema.cs",
               "RelativeToolTip": "houses-api\\Data\\Migrations\\CreateSchema.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-03T16:23:23.489Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-03T16:23:23.489Z"
             }
           ]
         }

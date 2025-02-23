@@ -1,6 +1,7 @@
 using Microsoft.EntityFrameworkCore;
 using FluentMigrator.Runner;
 using houses_api.Data.Migrations;
+using houses_api.Houses.Repository;
 
 public class Program
 {
@@ -15,7 +16,7 @@ public class Program
 
         builder.Services.AddCors(options =>
 
-         options.AddPolicy("house-api", domain =>
+         options.AddPolicy("houses-api", domain =>
          domain.WithOrigins("")
          .AllowAnyHeader()
          .AllowAnyMethod()));
@@ -26,7 +27,7 @@ public class Program
         options.UseMySql(builder.Configuration.GetConnectionString("Default")!,
         new MySqlServerVersion(new Version(8, 0, 21))));
 
-        //builder.Services.AddScoped<ILibraryRepo, LibraryRepo>();
+        builder.Services.AddScoped<IHouseRepo, HouseRepo>();
 
         builder.Services.AddFluentMigratorCore()
             .ConfigureRunner(rb => rb.AddMySql5()
@@ -68,7 +69,7 @@ public class Program
 
         }
 
-        app.UseCors("house-api");
+        app.UseCors("houses-api");
         app.Run();
     }
 }

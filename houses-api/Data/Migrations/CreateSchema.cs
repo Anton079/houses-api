@@ -13,13 +13,12 @@ namespace houses_api.Data.Migrations
 
         public override void Up()
         {
-            Create.Table("user")
+            Create.Table("house")
                 .WithColumn("id").AsInt32().PrimaryKey().Identity()
-                .WithColumn("first_name").AsString(120).NotNullable()
-                .WithColumn("last_name").AsString(120).NotNullable()
-                .WithColumn("mail").AsString(120).NotNullable()
-                .WithColumn("password").AsString(120).NotNullable()
-                .WithColumn("phone").AsInt32().NotNullable();
+                .WithColumn("model").AsString(120).NotNullable()
+                .WithColumn("rooms").AsInt32().NotNullable()
+                .WithColumn("price").AsInt32().NotNullable();
+
         }
     }
 }

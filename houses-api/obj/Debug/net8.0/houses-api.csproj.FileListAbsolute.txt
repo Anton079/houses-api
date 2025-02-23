@@ -97,3 +97,4 @@ C:\mycode\asp.net\houses-api\houses-api\obj\Debug\net8.0\refint\houses-api.dll
 C:\mycode\asp.net\houses-api\houses-api\obj\Debug\net8.0\houses-api.pdb
 C:\mycode\asp.net\houses-api\houses-api\obj\Debug\net8.0\houses-api.genruntimeconfig.cache
 C:\mycode\asp.net\houses-api\houses-api\obj\Debug\net8.0\ref\houses-api.dll
+C:\mycode\asp.net\houses-api\houses-api\obj\Debug\net8.0\houses-api.sourcelink.json

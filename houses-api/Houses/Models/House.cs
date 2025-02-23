@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace houses_api.Houses.Models
 {
-    [Table("animal")]
+    [Table("house")]
     public class House
     {
         [Key]
@@ -12,19 +12,17 @@ namespace houses_api.Houses.Models
         public int Id { get; set; }
 
         [Required]
-        [Column("street")]
-        public string street { get; set; }
+        [Column("model")]
+        public string model { get; set; }
 
         [Required]
-        [Column("number")]
-        public int Number { get; set; }
-
-        [Required]
-        [Column("surface")]
-        public int surface { get; set; }
+        [Column("rooms")]
+        public int rooms { get; set; }
 
         [Required]
         [Column("price")]
         public int price { get; set; }
+
+
     }
 }
