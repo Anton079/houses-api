@@ -1,6 +1,7 @@
 ﻿using houses_api.Houses.Dtos;
 using houses_api.Houses.Models;
 using AutoMapper;
+using apps_api.Houses.Dtos;
 
 namespace houses_api.Houses.Mapers
 {
@@ -8,8 +9,10 @@ namespace houses_api.Houses.Mapers
     {
         public HouseMappingProfile()
         {
-            CreateMap<HouseRequest, House>();
+            CreateMap<AddHouseRequest, House>();
+            CreateMap<EditHouseRequest, House>();
             CreateMap<House, HouseResponse>();
+
         }
     }
 }

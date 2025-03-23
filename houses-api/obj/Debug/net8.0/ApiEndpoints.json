@@ -9,7 +9,7 @@
     "Parameters": [
       {
         "Name": "houseReq",
-        "Type": "houses_api.Houses.Dtos.HouseRequest",
+        "Type": "houses_api.Houses.Dtos.AddHouseRequest",
         "IsRequired": true
       }
     ],
@@ -36,6 +36,63 @@
     "ReturnTypes": [
       {
         "Type": "System.Collections.Generic.List\u00601[[houses_api.Houses.Models.House, houses-api, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "houses_api.Houses.Controller.HouseController",
+    "Method": "DeleteHouseById",
+    "RelativePath": "api/v1/House/deleteHouse",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "houses_api.Houses.Dtos.HouseResponse",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "houses_api.Houses.Controller.HouseController",
+    "Method": "UpdateHouse",
+    "RelativePath": "api/v1/House/UpdateHouse",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "houseReq",
+        "Type": "apps_api.Houses.Dtos.EditHouseRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "houses_api.Houses.Dtos.HouseResponse",
         "MediaTypes": [
           "text/plain",
           "application/json",
